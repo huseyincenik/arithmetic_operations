@@ -1,5 +1,5 @@
 # arithmeticoperations
-Write A Program That Performs All Arithmetic Operations On Two and Three Variables 
+A Program That Performs All Arithmetic Operations On Two and Three Variables 
 
 ALGORITHM
 
