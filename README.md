@@ -15,7 +15,7 @@ Step4: Perform Multiplication On Numbers And Display To User
 
 Step5: Perform Division On Numbers And Display To User
 
-Step7: Perform Floor Division On Numbers And Display To User
+Step6: Perform Floor Division On Numbers And Display To User
 
 Step7: Perform Modulus On Numbers And Display To User
 
